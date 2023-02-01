@@ -9,7 +9,7 @@ import com.ktdsuniversity.edu.todo.vo.TodoVO;
 public class TodoController {
 	public static void main(String[] args) {
 		
-		//깃허브 테스트
+		//깃허브 테스트2
 		
 		
 		TodoService service = new TodoService();
