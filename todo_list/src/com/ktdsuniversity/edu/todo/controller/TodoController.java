@@ -8,6 +8,10 @@ import com.ktdsuniversity.edu.todo.vo.TodoVO;
 
 public class TodoController {
 	public static void main(String[] args) {
+		
+		//깃허브 테스트
+		
+		
 		TodoService service = new TodoService();
 		/**
 		 * 1. 등록 2. 조회(1건) 3. 조회(모든건) 4. 수정 5. 삭제(1건) 6. 삭제(모든건) 7. 종료
